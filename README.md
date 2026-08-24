@@ -1,7 +1,5 @@
 # `Pokemon Emerald XTREME`
 
-## NOTE: ### DO NOT GET THE RAW FILES, DOWNLOAD FROM RELEASE SECTION
-
 <!-- If you want to re-record or change these gifs, here are some notes that I used: https://files.catbox.moe/05001g.md -->
 
 # Features
@@ -16,6 +14,8 @@
  [![](https://img.shields.io/github/all-contributors/rh-hideout/pokeemerald-expansion/upcoming)](CREDITS.md)
 
 Based off RHH's pokeemerald-expansion 1.16.1 https://github.com/rh-hideout/pokeemerald-expansion/
+
+Battle Backgrounds are added from [Pokemon Heart and Soul repository]((https://github.com/PokemonHnS-Development/pokehns-expansion) which is drawn by WesleyFG and completed by Lil Dill, Phantanomy and the rest of HnS development team.
 
 
 

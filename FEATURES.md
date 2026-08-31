@@ -1,1 +1,1 @@
-Features.md has been deprecated, wiki will be added soon.
+Features.md has been deprecated, go to the wiki tab.

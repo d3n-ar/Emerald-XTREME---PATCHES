@@ -28,4 +28,4 @@ Battle Backgrounds are added from [Pokemon Heart and Soul repository](https://gi
 
 [![](https://dcbadge.limes.pink/api/server/fBB8824pKx)](https://discord.gg/fBB8824pKx)
 
-Our community uses the [D3N's Closet](https://discord.gg/fBB8824pKx) to communicate and organize. Most of our discussions take place there, and we welcome anybody to join us!
+Our community uses the [The D3N Group](https://discord.gg/fBB8824pKx) to communicate and organize. Most of our discussions take place there, and we welcome anybody to join us!

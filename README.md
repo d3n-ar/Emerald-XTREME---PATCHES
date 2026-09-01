@@ -13,7 +13,7 @@
 
  [![](https://img.shields.io/github/all-contributors/rh-hideout/pokeemerald-expansion/upcoming)](CREDITS.md)
 
-Based off RHH's pokeemerald-expansion 1.16.1 https://github.com/rh-hideout/pokeemerald-expansion/
+Based off RHH's pokeemerald-expansion 1.16.4 https://github.com/rh-hideout/pokeemerald-expansion/
 
 Battle Backgrounds are added from [Pokemon Heart and Soul repository](https://github.com/PokemonHnS-Development/pokehns-expansion) which is drawn by WesleyFG and completed by Lil Dill, Phantanomy and the rest of HnS development team.
 
